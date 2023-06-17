@@ -1,0 +1,16 @@
+[
+{
+  "modid": "atehud",
+  "name": "ATEHUD",
+  "description": "want new HUD ?",
+  "version": "1.6",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ATE47"],
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": [],
+  "useDependencyInformation": "true"
+}
+]
